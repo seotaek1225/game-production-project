@@ -1,0 +1,14 @@
+127.0.0.1 10396 connect 
+127.0.0.1 10396 disconnect 
+127.0.0.1 10403 connect 
+127.0.0.1 10403 disconnect 
+127.0.0.1 10407 connect 
+127.0.0.1 10408 connect 
+127.0.0.1 10409 connect 
+127.0.0.1 10407 disconnect 
+127.0.0.1 10408 disconnect 
+127.0.0.1 10409 disconnect 
+127.0.0.1 8986 connect 
+127.0.0.1 8987 connect 
+127.0.0.1 8987 disconnect 
+127.0.0.1 8986 disconnect 

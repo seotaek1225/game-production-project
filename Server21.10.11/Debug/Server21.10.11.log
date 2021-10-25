@@ -1,0 +1,3 @@
+﻿  server1011.cpp
+c:\users\stack\desktop\server21.10.11\server1011.cpp(156): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+  Server21.10.11.vcxproj -> C:\Users\stack\Desktop\Server21.10.11\Debug\Server21.10.11.exe

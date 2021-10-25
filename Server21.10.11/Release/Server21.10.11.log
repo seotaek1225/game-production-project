@@ -1,0 +1,5 @@
+﻿  server1011.cpp
+c:\users\stack\source\repos\server21.10.11\server1011.cpp(174): error C2664: 'int atoi(const char *)': 인수 1을(를) 'TCHAR [513]'에서 'const char *'(으)로 변환할 수 없습니다.
+  c:\users\stack\source\repos\server21.10.11\server1011.cpp(174): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\stack\source\repos\server21.10.11\server1011.cpp(193): error C2664: 'int atoi(const char *)': 인수 1을(를) 'TCHAR [513]'에서 'const char *'(으)로 변환할 수 없습니다.
+  c:\users\stack\source\repos\server21.10.11\server1011.cpp(193): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
